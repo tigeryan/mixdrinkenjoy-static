@@ -1,1 +1,1 @@
-The static version of https://mixdrinkenjoy.com
+The static version of <a href="https://mixdrinkenjoy.com">https://mixdrinkenjoy.com</a>
